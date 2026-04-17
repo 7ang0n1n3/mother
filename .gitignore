@@ -1,0 +1,19 @@
+/target/
+
+# Cargo backup files
+**/*.rs.bk
+
+# Environment and local overrides
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local tooling
+.codex
