@@ -2,6 +2,8 @@
 
 **Network Reconnaissance Suite** — a terminal UI built with [Ratatui](https://github.com/ratatui-org/ratatui), styled after the shipboard computer from *Alien*.
 
+![MU/TH/UR 6000 demo](mother.gif)
+
 ```
 SYSTEM INITIALIZATION COMPLETE.
 MU/TH/UR 6000 ONLINE.
